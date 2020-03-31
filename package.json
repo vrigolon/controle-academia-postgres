@@ -2,7 +2,7 @@
   "name": "gym-manager",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "src/server.js",
   "scripts": {
     "browsersync": "browser-sync start --proxy http://localhost:5000 --files 'public,src/app/views'",
     "nodemon": "nodemon src/server.js",
