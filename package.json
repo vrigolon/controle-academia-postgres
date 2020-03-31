@@ -8,6 +8,9 @@
     "nodemon": "nodemon src/server.js",
     "start": "npm-run-all -p nodemon browsersync"
   },
+  "engines": {
+    "node": "12.x"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
